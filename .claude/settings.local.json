@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "WebFetch(domain:atheer.pro)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebSearch",
+      "WebFetch(domain:streak-stats.demolab.com)",
+      "WebFetch(domain:github-profile-trophy.vercel.app)",
+      "WebFetch(domain:github-readme-stats-fast.vercel.app)",
+      "WebFetch(domain:github-trophies.vercel.app)"
+    ]
+  }
+}
